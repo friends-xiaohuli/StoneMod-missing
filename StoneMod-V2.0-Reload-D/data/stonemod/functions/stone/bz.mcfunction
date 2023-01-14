@@ -1,3 +1,0 @@
-tellraw @a [{"text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"},{"text":"=======================","color":"green","bold":true}]
-tellraw @a [{"text":"【玩法帮助】我的石头不见了","color":"red","bold":true},{"text": "\n"},{"text":"#本数据包将世界内【石头、深板岩（不包括圆石、三大废石、凝灰岩）、地狱岩、末地石】进行不可逆替换\n","color":"yellow"},{"text":"#当玩家在玻璃上站着15秒不动就会被雷劈\n","color":"yellow"},{"text":"#在没有石头的情况下你是否能生存下去吗？\n","color":"yellow"},{"text":"#游戏开始了，尽情受苦吧","color":"dark_red"}]
-tellraw @a [{"text":"=======================","color":"green","bold":true}]
