@@ -63,7 +63,6 @@ V2.X重置版 由于更改了替换规则，在 V2.1 前可能会有部分结构
 
 ![7168eb3132a4b1585ccdae01793b7a67.png](https://s1.imagehub.cc/images/2023/01/15/7168eb3132a4b1585ccdae01793b7a67.png)
 
-![cc861571799c31359894f7e243290e07.png](https://s1.imagehub.cc/images/2023/01/15/cc861571799c31359894f7e243290e07.png)
 
 ## 安装和检查是否生效
 
