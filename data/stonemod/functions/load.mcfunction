@@ -6,6 +6,7 @@ tellraw @a [{"text":"作者By 霜澪是只白狐ya、Big_Jls","color":"yellow"}]
 tellraw @a [{"text":"=======================","color":"green","bold":true}]
 scoreboard objectives add glassatt minecraft.mined:minecraft.glass
 scoreboard objectives add mode dummy "mode"
+scoreboard objectives add wj dummy
 scoreboard objectives add stonetime dummy {"text": "踩到玻璃上的时间","color": "dark_red"}
 scoreboard players set §a当前版本：V2.3合并版 stonetime -1
 scoreboard players set §cBy霜澪是只白狐ya、Big_Jls stonetime -2
