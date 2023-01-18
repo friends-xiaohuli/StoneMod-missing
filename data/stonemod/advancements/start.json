@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "stonemod:stone/start"
+        "function": "stonemod:stand/start"
     }
 }
