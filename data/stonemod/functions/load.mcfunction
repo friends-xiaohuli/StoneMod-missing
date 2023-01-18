@@ -11,7 +11,6 @@ scoreboard objectives add wj dummy
 scoreboard objectives add stonetime dummy {"text": "踩到玻璃上的时间","color": "dark_red"}
 scoreboard players set §a当前版本：V2.3合并版 stonetime -1
 scoreboard players set §cBy霜澪是只白狐ya、Big_Jls stonetime -2
-scoreboard objectives setdisplay sidebar stonetime
 scoreboard objectives add stoneTtime dummy
 scoreboard players set max stoneTtime 15
 scoreboard players set md1 mode 0
