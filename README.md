@@ -3,6 +3,11 @@
  我的石头不见了
 
 
+***请勿直接打包下载，下载请前往[releases](https://github.com/friends-xiaohuli/StoneMod-missing/releases)下载***
+
+--------------------
+
+
 ## 介绍
 
 版本：JE[1.19.X]（V1.X理论全版本，未经测试，V2.X属于重置版，理论仅1.19.X）
