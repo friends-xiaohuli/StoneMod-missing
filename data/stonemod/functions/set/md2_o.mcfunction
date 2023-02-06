@@ -1,5 +1,5 @@
 scoreboard players set md2 mode 1
-scoreboard objectives setdisplay sidebar glassatt
+scoreboard objectives setdisplay sidebar stonetime
 tellraw @a [{"text":"\n\n\n\n\n"}]
 tellraw @a [{"text":"=======================","color":"green","bold":true}]
 tellraw @a [{"text":"已开启【雷决】！","color":"red"}]
